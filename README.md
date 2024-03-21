@@ -48,7 +48,8 @@ The EY Data Challenge 2024 on Storm Damage Assessment provides participants with
 
 With the code in the provided notebooks I was able to model the top performing computer vision model in Kenya and Africa. 
 
-- [EY Certificate]([https://github.com/marttech26](https://www.linkedin.com/posts/emmanuel-rono-478875104_computervision-yolov9-activity-7173292425568763906-Kguv?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/emmanuel-rono-478875104_computervision-yolov9-activity-7173292425568763906-Kguv?utm_source=share&utm_medium=member_desktop)
+[EY Certificate](https://www.linkedin.com/posts/emmanuel-rono-478875104_computervision-yolov9-activity-7173292425568763906-Kguv?utm_source=share&utm_medium=member_desktop)
+
 
 ## Contributor
 
