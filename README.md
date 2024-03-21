@@ -1,5 +1,7 @@
 # EY Data Challenge 2024: Storm Damage Assessment
 
+![Storm Eye](storm.jpg)
+
 ## Objective
 The goal of the challenge is to develop a machine learning model to identify and detect “damaged” and “un-damaged” coastal infrastructure (residential and commercial buildings) impacted by natural calamities such as hurricanes, cyclones, etc. You are provided with pre- and post-cyclone satellite images of a site impacted by Hurricane Maria in 2017 and are tasked with building a machine learning model capable of detecting four different objects in a satellite image of a cyclone-impacted area:
 - Undamaged residential building
