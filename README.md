@@ -48,7 +48,7 @@ The goal of the challenge is to develop a machine learning model to identify and
 ## Conclusion
 The EY Data Challenge 2024 on Storm Damage Assessment provides participants with an opportunity to leverage computer vision and machine learning techniques to address critical issues related to natural disaster response and infrastructure damage assessment. By participating in this challenge, individuals can hone their skills, explore innovative approaches, and contribute to building solutions with real-world impact. 
 
-With the code in the provided notebooks I was able to model the top performing computer vision model in Kenya and Africa. 
+With the code in the provided notebooks I was able to model the top performing computer vision model in Kenya and in Africa. 
 
 [EY Certificate](https://www.linkedin.com/posts/emmanuel-rono-478875104_computervision-yolov9-activity-7173292425568763906-Kguv?utm_source=share&utm_medium=member_desktop)
 
